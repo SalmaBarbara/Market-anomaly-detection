@@ -1,0 +1,8 @@
+flask==2.1.2
+streamlit==1.13.0
+joblib==1.2.0
+pandas==1.4.3
+numpy==1.23.1
+scikit-learn==1.1.1
+openai==0.27.0  # For strategy generation using the OpenAI API
+xlrd==2.0.1     # For reading Excel files
